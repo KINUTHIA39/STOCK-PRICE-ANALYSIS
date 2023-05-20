@@ -1,1 +1,3 @@
-# Stock price analysis for a couple of stocks using python, look at the file ALGO COURSE.ipynb
+# Stock price analysis 
+look at the file ALGO COURSE.ipynb for the step by step analysis.
+
